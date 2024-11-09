@@ -1,0 +1,30 @@
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe.config
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.pdb
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.GenerateResource.cache
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.exe
+I:\Мои работы\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.pdb
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe.config
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.pdb
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.GenerateResource.cache
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.exe
+I:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.pdb
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe.config
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.exe
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\bin\Debug\Rock-Paper-Scissors.pdb
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.AssemblyReference.cache
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.GenerateResource.cache
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.exe
+D:\Мои работы\Итоговая работа\Rock-Paper-Scissors\Rock-Paper-Scissors\obj\Debug\Rock-Paper-Scissors.pdb
